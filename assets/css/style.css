@@ -1,0 +1,30 @@
+
+header{
+display: flex;
+flex-wrap: wrap;
+border: 1px #214761 solid;
+}
+
+header h1{
+    width:50%;
+    border: 1px black solid;
+}
+
+header nav{
+    width: 50%;
+    border: 1px black solid;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+figure{
+background-image: url(https://cutewallpaper.org/23x/01gn8rvml/142718588.jpg);
+background-size: cover;
+ background-repeat: no-repeat;
+height: 200px;
+width: 100%;
+}

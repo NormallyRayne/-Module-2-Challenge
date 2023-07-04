@@ -1,4 +1,4 @@
-# -Module-2-Challenge (Portfolio)
+# Module-2-Challenge (Portfolio)
 
 ## Description
 
@@ -24,7 +24,7 @@ N/A
 
 ## Usage
 
- here is the link: https://philliploy.github.io/challenge1-code-refactoring/
+ here is the link: (NEED TO PASTE LINK)
 
  <img src="./assets/images/screen_shot.PNG">
  
