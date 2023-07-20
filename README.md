@@ -24,9 +24,8 @@ N/A
 
 ## Usage
 
- here is the link: (NEED TO PASTE LINK)
-
- <img src="./assets/images/screen_shot.PNG">
+ here is the link: (NEED TO PASTE LINK) https://imgur.com/a/jS0b0Mz
+ 
  
 ## Credits
  
