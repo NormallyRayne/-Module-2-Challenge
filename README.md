@@ -24,7 +24,7 @@ N/A
 
 ## Usage
 
- here is the link: (NEED TO PASTE LINK) https://imgur.com/a/jS0b0Mz
+ here is the link: https://imgur.com/a/jS0b0Mz
  
  
 ## Credits
