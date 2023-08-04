@@ -28,7 +28,8 @@ N/A
 
 ## Usage
 
-![A photo showing my website](https://ibb.co/PmN1sN4) "Showcase of my website")
+![Screenshot 2023-07-19 215331](https://github.com/NormallyRayne/Module-2-Challenge/assets/80601826/0ed1e394-ee23-44b1-8416-b3b408e02d5b)
+
  
  
 ## Credits
