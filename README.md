@@ -28,7 +28,7 @@ N/A
 
 ## Usage
 
-![A photo showing my website](https://ibb.co/PmN1sN4 "Showcase of my website")
+![A photo showing my website](https://ibb.co/PmN1sN4) "Showcase of my website")
  
  
 ## Credits
