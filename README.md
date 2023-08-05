@@ -4,17 +4,13 @@
 
 Provide a short description explaining your project's what, why, and how. Use the following questions as a guide:
 
-- What was your motivation?
- -To test what I have learned with javascript, as well as build on my skills in HTML, CSS 
+- What was your motivation?: To test what I have learned with javascript, as well as build on my skills in HTML, CSS 
 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
- -To showcase my skills and what I have learned from the class.
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment."): To showcase my skills and what I have learned from the class.
 
-- What problem does it solve?
- -A way for people to generate unique passwords, instead of reusing the same password.
+- What problem does it solve?: A way for people to generate unique passwords, instead of reusing the same password.
 
-- What did you learn?
- -JavaScript 
+- What did you learn?: JavaScript 
 
 ## Table of Contents N/A
 
@@ -40,12 +36,10 @@ N/A
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
-
- 
 ## Features
 
-Website
+N/A
 
-
+##Website
 
 
