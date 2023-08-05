@@ -4,14 +4,10 @@
 
 Provide a short description explaining your project's what, why, and how. Use the following questions as a guide:
 
-- What was your motivation?
-My objective for working on this project was to develop a sample resume for myself and to demonstrate the new abilities I had learned. 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-I also performed this to practice my abilities and get a grade.
-- What problem does it solve?
-Not having a place to showcase my projects.
-- What did you learn?
-I acquired fresh HTML and CSS knowledge.
+- What was your motivation?: My objective for working on this project was to develop a sample resume for myself and to demonstrate the new abilities I had learned. 
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment."): I also performed this to practice my abilities and get a grade.
+- What problem does it solve?: Not having a place to showcase my projects.
+- What did you learn?: acquired fresh HTML and CSS knowledge.
 
 ## Table of Contents (Optional)
 
