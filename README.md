@@ -4,15 +4,16 @@
 
 Provide a short description explaining your project's what, why, and how. Use the following questions as a guide:
 
-- What was your motivation?: To test what I have learned with javascript, as well as build on my skills in HTML, CSS 
+- What was your motivation?
+My objective for working on this project was to develop a sample resume for myself and to demonstrate the new abilities I had learned. 
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+I also performed this to practice my abilities and get a grade.
+- What problem does it solve?
+Not having a place to showcase my projects.
+- What did you learn?
+I acquired fresh HTML and CSS knowledge.
 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment."): To showcase my skills and what I have learned from the class.
-
-- What problem does it solve?: A way for people to generate unique passwords, instead of reusing the same password.
-
-- What did you learn?: JavaScript 
-
-## Table of Contents N/A
+## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -26,8 +27,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 N/A
 
 ## Usage
-![Password Generator](https://github.com/NormallyRayne/Module-2-Challenge/assets/80601826/27b33e5e-8eba-4da4-8e1c-1faaed69943c) 
-![Password Generator ss (600x338)](https://github.com/NormallyRayne/Module-2-Challenge/assets/80601826/af5abd05-b378-47ec-8221-305d156a950a)
+
+![Screenshot 2023-08-04 210410](https://github.com/NormallyRayne/Module-2-Challenge/assets/80601826/315894da-06c1-4415-896e-7ae19647abb8)
+
 
 ## Credits
  Rayne
@@ -40,6 +42,7 @@ N/A
 
 N/A
 
-##Website
+## How to Contribute
 
+N/A
 
